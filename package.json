@@ -6,7 +6,7 @@
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html --experimental-scope-hoisting",
-    "lint": "eslint \"src/**/*.{js,ts}\" --fix && prettier --write \"**/*.{ts,js,json,css,md}\""
+    "lint": "eslint \"src/**/*.{js,ts}\" --fix && prettier --write \"src/**/*.{ts,js,json,css,md}\""
   },
   "author": "Jack Pyro",
   "license": "MIT",
