@@ -1,3 +1,3 @@
-# phaserjs-typescript-boilerplate
+# Town Generator
 
-Ready to use PhaserJS + Typescript game scene.
+Town generator based on Phaser
